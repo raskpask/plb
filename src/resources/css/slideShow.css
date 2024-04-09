@@ -1,0 +1,32 @@
+.fadeIn{
+    opacity: 1.0;
+    animation: fadeIn 7s infinite !important;
+}
+.fadeOut{
+    opacity: 1.0;
+    animation: fadeOut 7s infinite !important;
+}
+.text-over-image{
+    position: 'absolute';
+    top: '25%';
+    left: '18%';
+      
+}
+.add-text{
+    backgroundSize : 'cover'
+}
+@keyframes fadeIn {
+    100%, 0% { opacity: 0}
+    50% {opacity: 1}
+}
+@keyframes fadeOut {
+    0%, 100% { opacity: 0}
+    50% {opacity: 1}
+}
+.text-image{
+    position: relative;
+    top: 35%;
+    transform: translateY(-35%);
+    text-align: center;
+    
+}

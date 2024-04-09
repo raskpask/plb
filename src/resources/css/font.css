@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Display|Teko|Electrolize|Jura:300&display=swap');
+
+.brand
+{
+    color: rgb(160,10,40) !important;
+    font-size: 40px;
+    font-family: 'Big Shoulders Display', cursive;
+    text-transform: uppercase;
+}
+.navbar
+{
+    color: rgb(111,14,33) !important;
+    font-size: 20px;
+    font-family: 'Jura', sans-serif;
+    text-transform: uppercase;
+}
+
+.nav-font-color{
+    color: rgb(111,14,33) !important;
+}
+.nav-font-color:hover{
+    color: rgb(192,192,192) !important;
+}
+.nav-lang-font-color{
+    color: rgba(192,192,192,0.5) !important;
+}
+.nav-lang-font-color:hover{
+    color: rgb(192,192,192) !important;
+}
+
+.post-standard-text{
+    font-size: 20px;
+    font-family: 'Jura', sans-serif;
+    text-align: left;
+}
+.post-mobile-text{
+    font-size: 15px;
+    font-family: 'Jura', sans-serif;
+    text-align: left;
+}
+.post-standard-header{
+    text-transform: uppercase;
+    font-size: 30px;
+    color: black;
+    font-family: 'Electrolize', sans-serif;
+    text-align: left; 
+}
+.footer{
+    color: rgb(192,192,192) !important;
+}
+.footer-links{
+    color: rgb(192,192,192) !important;
+    font-size: 14px;
+}
+.footer-links:hover{
+    text-decoration: none;
+    color: rgb(255, 255, 255) !important;
+}
+.text-image{
+    font-family: 'Big Shoulders Display', cursive;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255) !important;
+    font-size: 10em;
+    /* background:rgba(255,255,255,0.0); */
+}
+.contact-links{
+    color: rgb(111,14,33) !important;
+}
+.contact-links:hover{
+    text-decoration: none;
+    color: rgb(192,192,192) !important;
+}
+.slideShow-image-text{
+    text-transform: capitalize;
+}
