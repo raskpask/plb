@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Container from 'react-bootstrap/Container';
 import ImageWebP from 'react-image-webp';
 
@@ -50,7 +50,7 @@ class MobilePosts extends React.Component {
     render() {
         return (
             <div>
-                {this.props.state == "image" ? this.renderImage() : this.renderText()}
+                {this.props.state === "image" ? this.renderImage() : this.renderText()}
             </div>
         );
     }

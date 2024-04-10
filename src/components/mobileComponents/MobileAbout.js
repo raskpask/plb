@@ -1,8 +1,5 @@
 import React,{Component} from 'react';
 import MobilePost from './fragments/MobilePost';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
-import Container from 'react-bootstrap/Container';
 
 class About extends Component{
     constructor (props){

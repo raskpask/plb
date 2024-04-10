@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Nav, Navbar, NavItem } from "react-bootstrap";
+import { Nav, Navbar } from "react-bootstrap";
 import '../resources/css/font.css'
 import '../resources/css/footer.css';
 
@@ -29,7 +29,7 @@ class Footer extends Component {
                     <Navbar.Text className="footer">
                         <a href="https://www.uc.se/risksigill2?showorg=556886-4622&language=swe"
                             title="Sigillet är utfärdat av UC AB. Klicka på bilden för information om UC:s Riskklasser.">
-                            <img src="https://www.uc.se/ucsigill2/sigill?org=556886-4622&language=swe&product=sma&fontcolor=b" />
+                            <img src="https://www.uc.se/ucsigill2/sigill?org=556886-4622&language=swe&product=sma&fontcolor=b" alt="uc sigill" />
                         </a>
                     </Navbar.Text>
                 </Nav>

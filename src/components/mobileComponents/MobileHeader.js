@@ -1,6 +1,5 @@
-import React, { Component, Fragment } from 'react';
+import React, { Component } from 'react';
 import { slide as Menu } from 'react-burger-menu'
-import Navbar from 'react-bootstrap/Navbar'
 import '../../resources/css/header.css';
 import '../../resources/css/font.css';
 import '../../resources/css/mobileHeader.css';

@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Fade } from 'react-slideshow-image';
-import Image from 'react-bootstrap/Image';
 import ImageWebP from 'react-image-webp';
 import '../../resources/css/font.css';
 import '../../resources/css/slideShow.css';
