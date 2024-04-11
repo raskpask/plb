@@ -10,19 +10,19 @@ class Contact extends Component {
       images: [
         {
           img: require("../../resources/img/contact/johan.jpg"),
-          imgWebP: require("../../resources/img/contact/johan.WebP"),
+          imgWebP: require("../../resources/img/contact/johan.webp"),
         },
         {
           img: require("../../resources/img/contact/fredrik.jpg"),
-          imgWebP: require("../../resources/img/contact/fredrik.WebP"),
+          imgWebP: require("../../resources/img/contact/fredrik.webp"),
         },
         {
           img: require("../../resources/img/contact/kim.jpg"),
-          imgWebP: require("../../resources/img/contact/kim.WebP"),
+          imgWebP: require("../../resources/img/contact/kim.webp"),
         },
         {
-          img: require("../../resources/img/contact/kim.jpg"),
-          imgWebP: require("../../resources/img/contact/kim.WebP"),
+          img: require("../../resources/img/contact/roger.jpg"),
+          imgWebP: require("../../resources/img/contact/roger.webp"),
         },
       ],
     };
